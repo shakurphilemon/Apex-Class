@@ -1,0 +1,3 @@
+//In the developer console add this code to send an email 
+EmailManager em = new EmailManager();
+em.sendMail('Your email address', 'Trailhead Tutorial', 'Programming id awesome');
